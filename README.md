@@ -15,6 +15,7 @@ You will accumulate experience points until you stop the timer. If you start the
 
 By using the app, users can level up and win achievements.
 
+Won first place at the Shrewsbury Hackathon in April 2017. 
 ### Creators
 Aalap Patel
 
